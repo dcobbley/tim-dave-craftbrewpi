@@ -4,12 +4,13 @@
             "id": "hZnUgXkWuXppTcFXxHdNWv",
             "name": "Element",
             "props": {
+                "Frequency": "60",
                 "GPIO": 2,
                 "Inverted": "No"
             },
             "state": false,
             "state2": "HELLO WORLD",
-            "type": "GPIOActor"
+            "type": "GPIOPWMActor"
         },
         {
             "id": "9rDhTjuetzzqYZJGbGnSaW",
